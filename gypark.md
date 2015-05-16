@@ -5,4 +5,5 @@ A                 | B        | Ex          |
  quantifier | 수량자 | |
  substring | 부분문자열 | |
  tie | 결합된? 묶인? | |
+ well-formed | 정형 | |
 

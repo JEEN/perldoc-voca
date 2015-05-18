@@ -6,4 +6,6 @@ A                 | B        | Ex          |
  stylesheet | 스타일 시트? 스타일시트? | |
  substring | 부분문자열 | |
  tie | 결합된? 묶인? | |
+ recipe 2.22 | 조리법 2.22, _레시피 2.22_ | |
+ 모듈이름 | XML::Parser , `XML::Parser` | |
 

@@ -298,14 +298,14 @@
 
 ### 본문 중간에 나오는 책 표시
 
-* _Learning XML_, by Erik T. Ray (O'Reilly)
-* _Learning XML_(Erik T. Ray 저, O'Reilly)
+* 원문: _Learning XML_, by Erik T. Ray (O'Reilly)
+* 번역: _Learning XML_(Erik T. Ray 저, O'Reilly)
 
-* _XML in a Nutshell_, Second Edition, by Elliotte Rusty Harold and W. Scott Means (O'Reilly)
-* _XML in a Nutshell_ 2판(Elliotte Rusty Harold, W. Scott Means 저, O'Reilly)
+* 원문: _XML in a Nutshell_, Second Edition, by Elliotte Rusty Harold and W. Scott Means (O'Reilly)
+* 번역: _XML in a Nutshell_ 2판(Elliotte Rusty Harold, W. Scott Means 저, O'Reilly)
 
 ### 참고문헌에 나오는 책 표시
 
-* Volume 3, Chapter 6 of The Art of Computer Programming, by Donald E. Knuth (Addison-Wesley)
-* Donald E. Knuth 저, "The Art of Computer Programming"(Addison-Wesley) 볼륨 3의 6장
+* 원문: Volume 3, Chapter 6 of The Art of Computer Programming, by Donald E. Knuth (Addison-Wesley)
+* 번역: Donald E. Knuth 저, "The Art of Computer Programming"(Addison-Wesley) 볼륨 3의 6장
 

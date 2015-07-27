@@ -79,6 +79,7 @@
  bless             | 블레스 | |
  blessed reference | 블레스된 레퍼런스 | |
  boilerplate | 상용구 | |
+ buffer overrun | 버퍼 오버런 | |
  build        | 빌드 | |
  byte sequence | 바이트 열 | |
  byte-order | 바이트 순서 | The binary format used by Storable is architecture byte-order dependent by default, but instead of using store, we used nstore, where the n stands for “network order.” (p.80) |
@@ -100,6 +101,7 @@
  daemon | 데몬 | | 
  data type | 데이터 형 | |
  day of month, day of week, day of year | 풀어쓰기 - '월 중 몇 번째 날' | |
+ deadlock | 교착상태 | |
  deallocation | 할당해제 | |
  decode | 복호화하다 | |
  deep copy | 깊은 복사 | |
@@ -136,11 +138,13 @@
  garbage collection | 가비지 컬렉션 | |
  getter            | 획득자 | |
  global variable   | 전역 변수 | This is true whether the data is held in lexical variables or package global variables. (p.259) |
+ glue language     | 접착 언어 | |
  greed | 탐욕적, 탐욕스러운 | |
  handler | 핸들러 | |
  hardcode          | 하드코딩하다 | |
  hash | 해시 | |
  heredoc | 히어 도큐먼트 | |
+ helper | 도우미 | helper class(도우미 클래스), helper method(도우미 메소드) |
  hook | 후크 | |
  hyphen | 하이픈, 붙임표 | |
  immutable         | 변경되지 않는 | |
@@ -197,6 +201,7 @@
  parse | 구문해석, 구문/구조을 해석하다 | |
  path tree | 경로 트리 | |
  pattern | 패턴 | |
+ peer | 피어 | |
  permission | 권한 | |
  permission | 퍼미션 | |
  persistent data | 영속 데이터 | |

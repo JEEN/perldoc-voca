@@ -247,6 +247,7 @@
  spec | 명세 | |
  spreadsheet | 스프레드시트 | | |
  statement | 구문 | |
+ state transition | 상태 전이 | |
  static variable | 정적 변수 | |
  stderr | 표준 에러 | |
  stdin | 표준 입력 | |

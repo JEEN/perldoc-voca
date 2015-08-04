@@ -155,6 +155,7 @@
  inline subroutine | 인라인 서브루틴 | It’s almost like an inline subroutine. (p.32) |
  inode | inode | |
  interpolation | 보간 | |
+ Inter Process Communication | 프로세스 간 통신 | |
  iterator | 반복자 | |
  layer | 계층 | 주로 파일핸들에서 |
  lexical | 렉시컬 | |

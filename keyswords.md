@@ -183,6 +183,7 @@
  mixin             | 믹스인 | |
  modifier | 변경자 | |
  module | 모듈 | |
+ multihomed server | 멀티홈 서버 | |
  namespace         | 네임스페이스 | |
  native machine code | 네이티브 기계어 코드 | |
  new line | 줄바꿈 | |

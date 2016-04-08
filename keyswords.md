@@ -187,7 +187,7 @@
  namespace         | 네임스페이스 | |
  native machine code | 네이티브 기계어 코드 | |
  new line | 줄바꿈 | |
- non-block | 논블록 | |
+ non-block, non-blocking | 논블로킹 | |
  non-greedy | 비탐욕적 | |
  non-word character | 워드 캐릭터가 아닌 문자 | |
  null | 널 | |

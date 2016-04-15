@@ -132,6 +132,7 @@
  flush | 비우다 | |
  foreground | 앞단 | |
  fork | 포크 | |
+ form(HTML) | 폼 | |
  formatting | 서식, 형식 | |
  function | 함수 | |
  function | 함수 제네레이터 | |

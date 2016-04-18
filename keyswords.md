@@ -221,6 +221,7 @@
  quantifier | 수량자 | |
  query | 질의하다 | |
  quote | 인용처리하다 | |
+ race condition | 경쟁 상태 | |
  random access | 임의 접근 | |
  random | 임의의 | |
  record | 레코드 | |

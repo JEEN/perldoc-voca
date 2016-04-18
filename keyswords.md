@@ -67,7 +67,7 @@
  attribute | 속성 | |
  backend | 뒷단 | |
  background | 뒷단 | |
- backreference | 뒷참조 | |
+ backreference | 역참조 | |
  backtracking | 역탐색 | |
  bareword | 베어워드(...) | In the olden days, Perl used barewords for programmer-defined filehandle names, and still does for the special filehandles such as STDIN, ARGV, and others. (p.115) |
  base class | 베이스 클래스 | |

@@ -146,6 +146,7 @@
  hash | 해시 | |
  heredoc | 히어 도큐먼트 | |
  helper | 도우미 | helper class(도우미 클래스), helper method(도우미 메소드) |
+ hidden field | 히든 필드 |  |
  hook | 후크 | |
  hyphen | 하이픈, 붙임표 | |
  immutable         | 변경되지 않는 | |

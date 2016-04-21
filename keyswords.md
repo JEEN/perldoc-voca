@@ -282,6 +282,7 @@
  unarchive | 압축을 푼다 | |
  unlock | 락을 풀다, 언락 | |
  unpack | 풀다 |  |
+ user agent | 사용자 에이전트 | |
  utility      | 유틸리티 | |
  void context | 보이드 컨텍스트 | |
  weaken reference  |    | |

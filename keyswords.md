@@ -93,6 +93,7 @@
  command line switch | 명령 행 스위치 | |
  comment out | 주석처리하다 | |
  comment | 주석 | |
+ Common Log Format | 공통 로그 형식 | (출처: https://httpd.apache.org/docs/2.2/ko/logs.html ) |
  constructor | 생성자 | |
  contents    | 컨텐츠 | |
  context     | 컨텍스트 | |

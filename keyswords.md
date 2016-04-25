@@ -95,7 +95,7 @@
  comment | 주석 | |
  Common Log Format | 공통 로그 형식 | (출처: https://httpd.apache.org/docs/2.2/ko/logs.html ) |
  constructor | 생성자 | |
- contents    | 컨텐츠 | |
+ contents    | 컨텐츠 | 출판사 - 콘텐츠 |
  context     | 컨텍스트 | |
  count | 세다 | |
  counter | 카운터, 계수기 | |
@@ -182,7 +182,7 @@
  memory leak | 메모리 누수 | |
  metacharacter | 메타캐릭터 | |
  metadata | 메타데이터 | |
- method | 메소드 | | 
+ method | 메소드 | 출판사는 메서드 사용 | 
  mixin             | 믹스인 | |
  modifier | 변경자 | |
  module | 모듈 | |
@@ -322,3 +322,9 @@
 * 원문: Volume 3, Chapter 6 of The Art of Computer Programming, by Donald E. Knuth (Addison-Wesley)
 * 번역: Donald E. Knuth 저, "The Art of Computer Programming"(Addison-Wesley) 볼륨 3의 6장
 
+### 출판사 방침
+
+몇몇 단어들은 우리가 보낸 원고를 출판사 측에서 수정한 것이 눈에 띔. 발견할 때마다 적어두자.
+
+* contents
+* method  

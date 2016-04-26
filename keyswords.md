@@ -162,6 +162,7 @@
  iterator | 반복자 | |
  layer | 계층 | 주로 파일핸들에서 |
  lexical | 렉시컬 | |
+ license | 라이센스 | 출판사 - 라이선스 | 
  link         | 링크 | |
  linker       | 링커 | |
  list | 리스트(자료구조) | |

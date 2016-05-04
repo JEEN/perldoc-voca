@@ -88,6 +88,7 @@
  closure | 클로저 | | 
  coderef | 코드 레퍼런스 | So far, we’ve shown references to three main Perl data types: scalars, arrays, and hashes. We can also take a reference to a subroutine (sometimes called a coderef). (p.91) |
  column | 칼럼 | |
+ command buffering | 명령 단위 버퍼링 | |
  command interpreter | 명령어 해석기 | |
  command line      | 명령 행 | |
  command line switch | 명령 행 스위치 | |

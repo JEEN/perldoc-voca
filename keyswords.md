@@ -201,7 +201,7 @@
  one line command  | 한 줄짜리 명령문 | |
  open / close (file) | (파일을) 열다 / 닫다 | |
  override          | 오버라이드 | |
- pack | 묶다 | |
+ pack, unpack | 패킹(하다), 언패킹(하다) | |
  package manager | 패키지 관리자 | |
  package | 패키지 | |
  parameter         | 매개변수 | |

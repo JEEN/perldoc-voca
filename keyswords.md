@@ -260,6 +260,7 @@
  stderr | 표준 에러 | |
  stdin | 표준 입력 | |
  stdout | 표준 출력 | |
+ sticky bit | 스티키 비트 | | 
  stub module | 스텁 모듈 | |
  stylesheet | 스타일시트 | 띄어쓰기 없음 |
  sub class         | 하위 클래스 | |

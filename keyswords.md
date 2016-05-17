@@ -86,6 +86,7 @@
  cache | 캐시 | |
  character | 문자 | |
  closure | 클로저 | | 
+ code point | 코드 포인트 | |
  coderef | 코드 레퍼런스 | So far, we’ve shown references to three main Perl data types: scalars, arrays, and hashes. We can also take a reference to a subroutine (sometimes called a coderef). (p.91) |
  column | 칼럼 | |
  command buffering | 명령 단위 버퍼링 | |
@@ -131,6 +132,7 @@
  file name | 파일 이름 | |
  filehandle | 파일핸들 | |
  filesystem | 파일 시스템 | |
+ fixed(variable) length | 고정(가변) 길이 | |
  flush | 비우다 | |
  foreground | 앞단 | |
  fork | 포크 | |

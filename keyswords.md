@@ -99,6 +99,7 @@
  constructor | 생성자 | |
  contents    | 컨텐츠 | 출판사 - 콘텐츠 |
  context     | 컨텍스트 | |
+ control | 컨트롤 | |
  count | 세다 | |
  counter | 카운터, 계수기 | |
  daemon | 데몬 | | 

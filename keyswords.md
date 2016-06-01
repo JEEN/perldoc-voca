@@ -294,7 +294,7 @@
  void context | 보이드 컨텍스트 | |
  weaken reference  |    | |
  well-formed | 정형 | |
- whitespace | 공백(문자) | |
+ whitespace | 공백, 공백 문자 | |
  wildcard | 와일드카드 | |
  word character (\w) | 워드 캐릭터(영문자, 숫자, 언더바) | |
  word wrap | 워드랩 | |

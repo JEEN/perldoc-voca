@@ -32,7 +32,7 @@
  { | 여는 중괄호 | |
  } | 닫는 중괄호 | |
  ~ | 물결표 | |
- ASCII | 아스키 | |
+ ASCII | ASCII | 다른 인코딩 명칭들은 다 영문 그대로 쓰니까 이것도... |
  Autovivification | 자동생성 | (p.63) |
  CPAN author       | CPAN 저자 | |
  Core Modules | 기본 모듈 | |

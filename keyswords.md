@@ -271,7 +271,7 @@
  subroutine | 서브루틴 | |
  substring | 부분문자열(substring) | |
  super class       | 수퍼 클래스 | | 
- superuser | 수퍼유저 | |
+ superuser | 수퍼유저 | 출판사에서 슈퍼유저로 고침 |
  symbol table      | 심볼 테이블  | A typeglob works with the symbol table, which means it’s dealing with package variables. |
  symbolic referenece | 심볼릭 레퍼런스 | Perl tries to use the value 5 as a symbolic reference, so it looks for a filehandle named 5. (p.116) |
  syntax sugar      |  | |

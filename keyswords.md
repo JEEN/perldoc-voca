@@ -134,6 +134,7 @@
  filehandle | 파일핸들 | |
  filesystem | 파일 시스템 | |
  fixed(variable) length | 고정(가변) 길이 | |
+ floating point number | 부동소수 | |
  flush | 비우다 | |
  foreground | 앞단 | |
  fork | 포크 | |
